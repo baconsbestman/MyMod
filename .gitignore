@@ -36,3 +36,8 @@ Icon
 
 /gradle/
 /eclipse/
+/.gradle/
+.classpath
+.project
+/.settings/
+/bin/
