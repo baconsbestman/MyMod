@@ -1,0 +1,16 @@
+[
+{
+  "modid": "RobertoMod",
+  "name": "Roberto Mod",
+  "description": "Roberto's Mod.",
+  "version": "",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Roberto", "baconsbestman"],
+  "credits": "Pahimar and his Patrons",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
